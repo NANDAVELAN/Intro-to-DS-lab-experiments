@@ -1,3 +1,6 @@
+### Name: Nandavelan SPS 
+### Reg No: 212223060182
+
 # Exno:1
 Data Cleaning Process
 
