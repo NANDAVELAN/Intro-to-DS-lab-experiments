@@ -1,4 +1,8 @@
 # EXNO:4-DS
+Name: Nandavelan SPS
+
+Reg No: 212223060182
+
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +28,19 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![exp4_page-0001](https://github.com/user-attachments/assets/ee67d802-c741-4462-bdac-5fdc86edec0e)
+![exp4_page-0002](https://github.com/user-attachments/assets/86b05bc0-e939-4afb-9658-31bfa46fe336)
+![exp4_page-0003](https://github.com/user-attachments/assets/d34fdf82-be78-46ef-901f-f030188a729c)
+![exp4_page-0004](https://github.com/user-attachments/assets/117c5dc0-da4c-4190-85b5-184638c183c1)
+![exp4_page-0005](https://github.com/user-attachments/assets/3d070e50-0ef2-482a-8316-3bb65565692b)
+![exp4_page-0006](https://github.com/user-attachments/assets/57fff818-edfe-4661-92a5-013b0af563ba)
+![exp4_page-0007](https://github.com/user-attachments/assets/895f0780-1ba2-4aa6-8a22-4725c40958e5)
+![exp4_page-0008](https://github.com/user-attachments/assets/89c24d0d-19c7-4c51-a3cd-39bdc3a1e950)
+![exp4_page-0009](https://github.com/user-attachments/assets/d5325a4f-03c9-4871-a0d5-db3ded30e4b1)
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Feature scaling and feature selection process has been successfullyperformed on the data set.
+
+
